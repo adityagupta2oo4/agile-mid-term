@@ -15,7 +15,7 @@ spec:
       containers:
       - name: conference-container
         # Replace 'yourdockerid' with your actual Docker Hub username
-        image: yourdockerid/html-demo:latest 
+        image: aditya2oo4/html-demo:latest 
         ports:
         - containerPort: 80
 ---
